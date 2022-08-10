@@ -14,7 +14,7 @@ export default function Footer() {
       <br />
       Open-sourced on{" "}
       <a
-        href="https://github.com/Frelsesben/react-app-weather"
+        href="https://github.com/Frelsesben/react-app-dictionary/"
         target="_blank"
         rel="noreferrer"
       >
@@ -22,11 +22,7 @@ export default function Footer() {
       </a>
       <br />
       Hosted on{" "}
-      <a
-        href="https://frelsesben-react-weather.netlify.app/"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <a href="/" target="_blank" rel="noreferrer">
         Netlify
       </a>
     </div>
