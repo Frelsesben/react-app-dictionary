@@ -27,9 +27,12 @@ h1 {
   text-align: center;
 }
 
+.Dictionary {
+  padding: 10px;
+}
 .Footer {
   font-size: small;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
   color: #383233;
   text-align: right;
 }
