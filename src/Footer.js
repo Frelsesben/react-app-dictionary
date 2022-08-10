@@ -22,7 +22,11 @@ export default function Footer() {
       </a>
       <br />
       Hosted on{" "}
-      <a href="/" target="_blank" rel="noreferrer">
+      <a
+        href="https://frelsesben-react-dictionary.netlify.app/"
+        target="_blank"
+        rel="noreferrer"
+      >
         Netlify
       </a>
     </div>
