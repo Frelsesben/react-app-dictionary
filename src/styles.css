@@ -1,0 +1,41 @@
+a {
+  color: #383233;
+}
+
+a:hover {
+  color: #8eb69b;
+}
+
+body {
+  background: #304529;
+}
+
+h1 {
+  padding: 20px 10px 0px 10px;
+  font-size: xx-large;
+  color: #383233;
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+}
+
+.Box {
+  margin: 15px auto;
+  border-radius: 10px;
+  max-width: 500px;
+  font-family: "DM Sans", sans-serif;
+  background: #fafafa;
+  text-align: center;
+}
+
+.Footer {
+  font-size: small;
+  padding: 10px 10px 10px 10px;
+  color: #383233;
+  text-align: right;
+}
+
+#animation {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+}
