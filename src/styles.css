@@ -12,8 +12,20 @@ body {
 
 h1 {
   padding: 20px 10px 0px 10px;
-  font-size: xx-large;
   color: #383233;
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+}
+
+h2 {
+  font-family: "Dr Sugiyama", cursive;
+  font-size: xxx-large;
+  text-transform: capitalize;
+  padding: 20px 10px 0px 10px;
+}
+
+h3 {
+  font-size: large;
   text-transform: uppercase;
   font-family: "Fjalla One", sans-serif;
 }
@@ -30,11 +42,19 @@ h1 {
 .Dictionary {
   padding: 10px;
 }
+
 .Footer {
   font-size: small;
   padding: 10px;
   color: #383233;
   text-align: right;
+}
+
+.Meaning {
+  text-align: justify;
+  font-size: small;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #animation {
